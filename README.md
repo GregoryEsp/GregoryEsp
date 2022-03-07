@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GregoryEsp
 - 👀 I’m interested in becoming a jr software developer
 - 🌱 I’m currently learning @theodinproject
-- 💞️ I’m looking to collaborate on mentorship with self taught professionals
+- 💞️ I’m looking to collaborate with self taught professionals
 - 📫 
 
 <!---
